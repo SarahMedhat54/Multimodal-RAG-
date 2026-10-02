@@ -1,0 +1,10 @@
+torch
+transformers
+pillow
+pymupdf
+chromadb
+langchain-text-splitters
+streamlit
+reportlab
+groq
+python-dotenv
